@@ -1,0 +1,3 @@
+[COMO] Administrador
+[QUIERO] tener un panel
+[PARA] gestionar mejor la pagina
