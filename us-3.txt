@@ -1,0 +1,7 @@
+Mencione al menos 2 técnicas o maneras de obtener requisitos para el desarrollo de software.
+Si no recuerda un nombre exacto, explique con sus palabras, el procedimiento para obtener los requisitos.
+
+Para la educciòn de requisitos se puede obtener de manera oral, escrita.
+revisando el software actual u obsoleto.
+tomar encuestas
+entrevistar al personal.
