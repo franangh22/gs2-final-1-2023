@@ -1,0 +1,28 @@
+Explique con sus palabras y de la forma más breve posible,
+el proceso de desarrollo de un proyecto utilizando SCRUM.
+Mencione los actores, los artefactos y las ceremonias.
+
+
+Scrum es un marco de trabajo agil para la gestion de proyectos que facilita
+la organizacion de este mismo, haciendo que sea flexible adaptativo a cualquier entorno,
+aunque no es para todos los proyectos, se requiere responsabilidad para que funcione la metodologia.
+
+Scrum es una metodologia popular que se adapta a cualquier mercado laboral pero es conocida porque su uso
+popular fue en el area de software.
+
+
+Roles: 
+
+Scrum master: encargado en liderar el grupo de desarrollo, no da ordenes pero se encarga de quitar los obstaculos,
+motivar y hacer cumplir los objetivos del backlog.
+
+Product Owner: representa a los interesados(stakeholders) es el encargado de escribir en el product backlog las
+necesidades del cliente, se encarga de que los requerimientos de mayor prioridad se hagan primero.
+
+Team Developer: es el equipo que profesionalizado en realizar los sprints.
+
+Ceremonias: Reviews, retrospectiva y dailys. estas ceremonias se hacen al finalizar los sprints.
+
+la daily dura 15mins y solamente se pregunta como va el proyecto y cual es su avance pero no se resuelve nada.
+
+Artefactos: Product backlog, sprint backlog. 
